@@ -1,0 +1,415 @@
+{
+    "animelist": [
+        {
+            "id": 1,
+            "title": "Bleach",
+            "type": "show",
+            "genre": "adventure, action",
+            "episodes": 418,
+            "rating": 9.0,
+            "status": "completed"
+            
+        },
+        {
+            "id": 2,
+            "title": "Attack on Titan",
+            "type":"show",
+            "genre": "dark fantasy, post apocalyptic, action",
+            "episodes": 89,
+            "rating": 9.1,
+            "status": "completed"
+        },
+        {
+            "id": 3,
+            "title": "Jujutsu Kaisen",
+            "type": "show",
+            "genre": "supernatural, action",
+            "episodes": 59,
+            "rating": 8.5,
+            "status": "completed"
+        },
+        {
+            "id": 4,
+            "title": "Fullmetal Alchemist",
+            "type": "show",
+            "genre": "adventure, steampunk",
+            "episodes": 64,
+            "rating": 9.1,
+            "status": "completed"
+        },
+        {
+            "id": 5,
+            "title": "Hunter x Hunter",
+            "type": "show",
+            "genre": "adventure, fantasy",
+            "episodes": 148,
+            "rating": 9.0,
+            "status": "watching"
+        },
+        {
+            "id": 6,
+            "title": "Death Note",
+            "type": "show",
+            "genre": "psychological thriller",
+            "episodes": 37,
+            "rating": 8.9,
+            "status": "completed"
+        },
+        {
+            "id": 7,
+            "title": "Cowboy Bebop",
+            "type": "show",
+            "genre": "space western, cyberpunk",
+            "episodes": 26,
+            "rating": 8.9,
+            "status": "watching"
+        },
+        {
+            "id": 8,
+            "title": "Vinland Saga",
+            "type": "show",
+            "genre": "historical, adventure",
+            "episodes": 48,
+            "rating": 8.8,
+            "status": "watching"
+        },
+        {
+            "id": 9,
+            "title": "My Hero Academia",
+            "type": "show",
+            "genre": "superhero, action, adventure",
+            "episodes": 181,
+            "rating": 8.2,
+            "status": "completed"
+        },
+        {
+            "id": 10,
+            "title": "Cyberpunk: Edgerunners",
+            "type": "show",
+            "genre": "sciencefiction, cyberpunk",
+            "episodes": 10,
+            "rating": 8.3,
+            "status": "completed"
+        },
+        {
+            "id": 11,
+            "title": "Demon Slayer",
+            "type": "show",
+            "genre": "adventure, dark fantasy",
+            "episodes": 63,
+            "rating": 8.6,
+            "status": "completed"
+        },
+        {
+            "id": 12,
+            "title": "One Punch Man",
+            "type": "show",
+            "genre": "superhero, action, comedy",
+            "episodes": 36,
+            "rating": 8.6,
+            "status": "plan to watch"
+        },
+        {
+            "id": 13,
+            "title": "Chainsaw Man",
+            "type": "show",
+            "genre": "dark fantasy, action",
+            "episodes": 12,
+            "rating": 8.3,
+            "status": "watching"
+        },
+        {
+            "id": 14,
+            "title": "Initial D",
+            "type": "show",
+            "genre": "sports, racing",
+            "episodes": 81,
+            "rating": 8.5,
+            "status": "plan to watch"
+        },
+        {
+            "id": 15,
+            "title": "Pokemon",
+            "type": "show",
+            "genre": "adventure, fantasy, comedy",
+            "episodes": 1300,
+            "rating": 7.6,
+            "status": "watching"
+        },
+        {
+            "id": 16,
+            "title": "Akira",
+            "type": "movie",
+            "genre": "sciencefiction, action",
+            "rating": 8,
+            "status": "plan to watch"
+        },
+        {
+            "id": 17,
+            "title": "Jujutsu Kaisen 0",
+            "type": "movie",
+            "genre": "dark fantasy, action",
+            "rating": 7.8,
+            "status": "completed"
+        },
+        {
+            "id": 18,
+            "title": "Demon Slayer - Infinity Castle",
+            "type": "movie",
+            "genre": "dark fantasy, action",
+            "rating": 8.4,
+            "status": "completed"
+        },
+        {
+            "id": 19,
+            "title": "Spirited Away",
+            "type": "movie",
+            "genre": "fantasy, adventure",
+            "rating": 8.6,
+            "status": "completed"
+        },
+        {
+            "id": 20,
+            "title": "The Boy and the Heron",
+            "type": "movie",
+            "genre": "adventure, drama, fantasy",
+            "rating": 7.3,
+            "status": "completed"
+        },
+        {
+            "id": 21,
+            "title": "Howl's Moving Castle",
+            "type": "movie",
+            "genre":"fantasy, adventure",
+            "rating": 8.2,
+            "status": "completed"
+        },
+        {
+            "id": 22,
+            "title": "Castle in the Sky",
+            "type": "movie",
+            "genre": "steampunk, fantasy, adventure",
+            "rating": 8.0,
+            "status": "watching"
+        },
+        {
+            "id": 23,
+            "title": "Princess Mononoke",
+            "type": "movie",
+            "genre": "historical, fantasy, adventure",
+            "rating": 8.3,
+            "status": "plan to watch"
+        },
+        {
+            "id": 24,
+            "title": "My Neighbor Totoro",
+            "type": "movie",
+            "genre": "fantasy",
+            "rating": 8.1,
+            "status": "plan to watch"
+        },
+        {
+            "id": 25,
+            "title": "Ghost in the Shell",
+            "type": "movie",
+            "genre": "cyberpunk, sciencefiction, thriller",
+            "rating": 7.9,
+            "status": "plan to watch"
+        },
+        {
+            "id": 26,
+            "title": "Demon Slayer - Mugen Train",
+            "type": "movie",
+            "genre": "dark fantasy, action",
+            "rating": 8.2,
+            "status": "completed"
+        },
+        {
+            "id": 27,
+            "title": "Porco Rosso",
+            "type": "movie",
+            "genre": "fantasy, adventure",
+            "rating": 7.7,
+            "status": "plan to watch"
+        },
+        {
+            "id": 28,
+            "title": "My Hero Academia - Two Heroes",
+            "type": "movie",
+            "genre": "superhero, action, adventure",
+            "rating": 7.3,
+            "status": "completed"
+        },
+        {
+            "id": 29,
+            "title": "My Hero Academia - Heroes Rising",
+            "type": "movie",
+            "genre": "superhero, action, adventure",
+            "rating": 7.8,
+            "status": "completed"
+        },
+        {
+            "id": 30,
+            "title": "My Hero Academia - World Heroes' Mission",
+            "type": "movie",
+            "genre": "superhero, action, adventure",
+            "rating": 7.0,
+            "status": "completed"
+        },
+        {
+            "id": 31,
+            "title": "My Hero Academia - You're Next",
+            "type": "movie",
+            "genre": "superhero, action, adventure",
+            "rating": 7.0,
+            "status": "completed"
+        },
+        {
+            "id": 32,
+            "title": "Solo leveling",
+            "type": "show",
+            "genre": "fantasy",
+            "episodes": 24,
+            "rating": 8.5,
+            "status": "completed"
+        }
+    ],
+
+    "mangalist": [
+        {
+            "id": 1,
+            "title": "Bleach",
+            "type": "weekly released manga",
+            "genre": "action, adventure, supernatural",
+            "rating": 7.9,
+            "chapters": 705,
+            "status": "reading"
+        },
+        {
+            "id": 2,
+            "title": "Attack on Titan",
+            "type": "monthly release manga",
+            "genre": "dark fantasy, post apocalyptic, action",
+            "rating": 8.5,
+            "chapters": 141,
+            "status": "completed"
+        },
+        {
+            "id": 3,
+            "title": "Jujutsu Kaisen",
+            "type": "weekly released manga",
+            "genre": "dark fantasy, supernatural, action",
+            "rating": 8.2,
+            "chapters": 272,
+            "status": "completed"
+        },
+        {
+            "id": 4,
+            "title": "Fullmetal Alchemist",
+            "type": "monthly release manga",
+            "genre": "action, adventure, fantasy",
+            "rating": 9.0,
+            "chapters": 116,
+            "status": "plan to read"
+        },
+        {
+            "id": 5,
+            "title": "Hunter x Hunter",
+            "type": "weekly released manga",
+            "genre": "action, adventure, fantasy",
+            "rating": 8.8,
+            "chapters": 400,
+            "status": "plan to read"
+        },
+        {
+            "id": 6,
+            "title": "Death Note",
+            "type": "weekly released manga",
+            "genre": "supernatural, suspense",
+            "rating": 8.7,
+            "chapters": 108,
+            "status": "plan to read"
+        },
+        {
+            "id": 7,
+            "title": "Cowboy Bebop",
+            "type": "monthly release manga",
+            "genre": "action, adventure, sciencefiction",
+            "rating": 7.2,
+            "chapters": 11,
+            "status": "not read"
+        },
+        {
+            "id": 8,
+            "title": "Vinland Saga",
+            "type": "monthly release manga",
+            "genre": "action, adventure, drama",
+            "rating": 9.1,
+            "chapters": 224,
+            "status": "plan to read"
+        },
+        {
+            "id": 9,
+            "title":"My Hero Academia",
+            "type": "weekly released manga",
+            "genre": "action",
+            "rating": 8.0,
+            "chapters": 432,
+            "status": "plan to read"
+        },
+        {
+            "id": 10,
+            "title":"Demon Slayer",
+            "type":"weekly released manga",
+            "genre": "action, fantasy",
+            "rating": 8.1,
+            "chapters": 207,
+            "status": "completed"
+        },
+        {
+            "id": 11,
+            "title": "One Punch Man",
+            "type": "inconsistently released manga",
+            "genre": "action, comedy",
+            "rating": 8.7,
+            "chapters": 226,
+            "status": "not read"
+        },
+        {
+            "id": 12,
+            "title": "Chainsaw Man",
+            "type":"weekly released manga",
+            "genre": "action, fantasy",
+            "rating": 8.6,
+            "chapters": 232,
+            "status": "reading"
+        },
+        {
+            "id": 13,
+            "title": "Initial D",
+            "type": "weekly released manga",
+            "genre": "action, racing",
+            "rating": 8.3,
+            "chapters": 724,
+            "status": "not read"
+        },
+        {
+            "id": 14,
+            "title": "Akira",
+            "type": "weekly released manga",
+            "genre": "action, sciencefiction",
+            "rating": 8.7,
+            "chapters": 120,
+            "status": "reading"
+        },
+        {
+            "id": 15,
+            "title": "Solo leveling",
+            "type": "weekly released manwha",
+            "genre": "action, adventure, fantasy",
+            "rating": 8.6,
+            "chapters": 201,
+            "status": "reading"
+        }
+    ]
+}
