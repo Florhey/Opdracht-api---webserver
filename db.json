@@ -7,7 +7,7 @@
             "genre": "adventure, action",
             "episodes": 418,
             "rating": 9.0,
-            "status": "completed"
+            "status": "uitgekeken"
             
         },
         {
@@ -17,7 +17,7 @@
             "genre": "dark fantasy, post apocalyptic, action",
             "episodes": 89,
             "rating": 9.1,
-            "status": "completed"
+            "status": "uitgekeken"
         },
         {
             "id": 3,
@@ -26,7 +26,7 @@
             "genre": "supernatural, action",
             "episodes": 59,
             "rating": 8.5,
-            "status": "completed"
+            "status": "uitgekeken"
         },
         {
             "id": 4,
@@ -35,7 +35,7 @@
             "genre": "adventure, steampunk",
             "episodes": 64,
             "rating": 9.1,
-            "status": "completed"
+            "status": "uitgekeken"
         },
         {
             "id": 5,
@@ -44,7 +44,7 @@
             "genre": "adventure, fantasy",
             "episodes": 148,
             "rating": 9.0,
-            "status": "watching"
+            "status": "aan het kijken"
         },
         {
             "id": 6,
@@ -53,7 +53,7 @@
             "genre": "psychological thriller",
             "episodes": 37,
             "rating": 8.9,
-            "status": "completed"
+            "status": "uitgekeken"
         },
         {
             "id": 7,
@@ -62,7 +62,7 @@
             "genre": "space western, cyberpunk",
             "episodes": 26,
             "rating": 8.9,
-            "status": "watching"
+            "status": "aan het kijken"
         },
         {
             "id": 8,
@@ -71,7 +71,7 @@
             "genre": "superhero, action, adventure",
             "episodes": 181,
             "rating": 8.2,
-            "status": "completed"
+            "status": "uitgekeken"
         },
         {
             "id": 9,
@@ -80,7 +80,7 @@
             "genre": "adventure, dark fantasy",
             "episodes": 63,
             "rating": 8.6,
-            "status": "completed"
+            "status": "uitgekeken"
         },
         {
             "id": 10,
@@ -89,7 +89,7 @@
             "genre": "superhero, action, comedy",
             "episodes": 36,
             "rating": 8.6,
-            "status": "plan to watch"
+            "status": "wil ik kijken"
         },
         {
             "id": 11,
@@ -98,7 +98,7 @@
             "genre": "dark fantasy, action",
             "episodes": 12,
             "rating": 8.3,
-            "status": "watching"
+            "status": "aan het kijken"
         },
         {
             "id": 12,
@@ -106,7 +106,7 @@
             "type": "movie",
             "genre": "sciencefiction, action",
             "rating": 8,
-            "status": "plan to watch"
+            "status": "wil ik kijken"
         },
         {
             "id": 13,
@@ -114,7 +114,7 @@
             "type": "movie",
             "genre": "dark fantasy, action",
             "rating": 7.8,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 14,
@@ -122,7 +122,7 @@
             "type": "movie",
             "genre": "dark fantasy, action",
             "rating": 8.4,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 15,
@@ -130,7 +130,7 @@
             "type": "movie",
             "genre": "fantasy, adventure",
             "rating": 8.6,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 16,
@@ -138,7 +138,7 @@
             "type": "movie",
             "genre": "adventure, drama, fantasy",
             "rating": 7.3,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 17,
@@ -146,7 +146,7 @@
             "type": "movie",
             "genre":"fantasy, adventure",
             "rating": 8.2,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 18,
@@ -154,7 +154,7 @@
             "type": "movie",
             "genre": "steampunk, fantasy, adventure",
             "rating": 8.0,
-            "status": "watching"
+            "status": "aan het kijken"
         },
         {
             "id": 19,
@@ -162,7 +162,7 @@
             "type": "movie",
             "genre": "historical, fantasy, adventure",
             "rating": 8.3,
-            "status": "plan to watch"
+            "status": "wil ik kijken"
         },
         {
             "id": 20,
@@ -170,7 +170,7 @@
             "type": "movie",
             "genre": "dark fantasy, action",
             "rating": 8.2,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 21,
@@ -178,7 +178,7 @@
             "type": "movie",
             "genre": "superhero, action, adventure",
             "rating": 7.0,
-            "status": "completed"
+            "status": "gezien"
         },
         {
             "id": 22,
@@ -187,7 +187,7 @@
             "genre": "fantasy",
             "episodes": 24,
             "rating": 8.5,
-            "status": "completed"
+            "status": "uitgekeken"
         }
     ],
 
@@ -199,7 +199,7 @@
             "genre": "action, adventure, supernatural",
             "rating": 7.9,
             "chapters": 705,
-            "status": "reading"
+            "status": "aan het lezen"
         },
         {
             "id": 2,
@@ -208,7 +208,7 @@
             "genre": "dark fantasy, post apocalyptic, action",
             "rating": 8.5,
             "chapters": 141,
-            "status": "completed"
+            "status": "uitgelezen"
         },
         {
             "id": 3,
@@ -217,7 +217,7 @@
             "genre": "dark fantasy, supernatural, action",
             "rating": 8.2,
             "chapters": 272,
-            "status": "completed"
+            "status": "uitgelezen"
         },
         {
             "id": 4,
@@ -226,7 +226,7 @@
             "genre": "action, adventure, fantasy",
             "rating": 9.0,
             "chapters": 116,
-            "status": "plan to read"
+            "status": "wil ik lezen"
         },
         {
             "id": 5,
@@ -235,7 +235,7 @@
             "genre": "action, adventure, fantasy",
             "rating": 8.8,
             "chapters": 400,
-            "status": "plan to read"
+            "status": "wil ik lezen"
         },
         {
             "id": 6,
@@ -244,7 +244,7 @@
             "genre": "supernatural, suspense",
             "rating": 8.7,
             "chapters": 108,
-            "status": "plan to read"
+            "status": "wil ik lezen"
         },
         {
             "id": 7,
@@ -253,7 +253,7 @@
             "genre": "action, adventure, sciencefiction",
             "rating": 7.2,
             "chapters": 11,
-            "status": "not read"
+            "status": "niet gelezen"
         },
         {
             "id": 8,
@@ -262,7 +262,7 @@
             "genre": "action",
             "rating": 8.0,
             "chapters": 432,
-            "status": "plan to read"
+            "status": "uitgelezen"
         },
         {
             "id": 9,
@@ -271,7 +271,7 @@
             "genre": "action, fantasy",
             "rating": 8.1,
             "chapters": 207,
-            "status": "completed"
+            "status": "uitgelezen"
         },
         {
             "id": 10,
@@ -280,7 +280,7 @@
             "genre": "action, comedy",
             "rating": 8.7,
             "chapters": 226,
-            "status": "not read"
+            "status": "niet gelezen"
         },
         {
             "id": 11,
@@ -289,7 +289,7 @@
             "genre": "action, fantasy",
             "rating": 8.6,
             "chapters": 232,
-            "status": "reading"
+            "status": "aan het lezen"
         },
         {
             "id": 12,
@@ -298,7 +298,7 @@
             "genre": "action, sciencefiction",
             "rating": 8.7,
             "chapters": 120,
-            "status": "reading"
+            "status": "aan het lezen"
         },
         {
             "id": 13,
@@ -307,7 +307,7 @@
             "genre": "action, adventure, fantasy",
             "rating": 8.6,
             "chapters": 201,
-            "status": "reading"
+            "status": "aan het lezen"
         }
     ]
 }
